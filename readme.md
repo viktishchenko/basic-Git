@@ -1,4 +1,4 @@
-# Git & Command line basic
+# Git & Command line fundamentals
 
 ## _Базовые команды и прочие штуки_
 
@@ -648,7 +648,9 @@ git remote add origin *ссылка*
 Проверяем, что репозиторий добавился:
 
 ```javascript
-git remote -v (-v — значит подробный)
+git remote -v
+
+(-v — значит подробный)
 
 Выведет:
 origin *ссылка* (fetch) (забирать из него изменения)
@@ -778,6 +780,7 @@ git branch -vv
 ```
 
 -v — подробно.
+
 -vv — очень подробно.
 
 # I. Упрощение работы с консолью
