@@ -2,7 +2,7 @@
 
 ## _Базовые команды и прочие штуки_
 
-[![Last update](https://img.shields.io/badge/update-02.07.21-brightgreen)](https://github.com/viktishchenko)
+[![Last update](https://img.shields.io/badge/update-02.07.21-brightgreen)](https://github.com/viktishchenko/git)
 
 ## Термины
 
